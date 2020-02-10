@@ -1,4 +1,4 @@
-# CSCI4622Kegel01
+# CSCI4622Kaggle01
 #Cassidy Carpenter
 #Adam Salyers
-The first Kegel Excercise
+The first Kaggle Excercise
